@@ -10,7 +10,7 @@
 /** Hide useless sidebar stuff */
 .nav-header .flashcards-nav { display: none; }
 .nav-header .journals-nav { display: none; }
-/*.nav-header .graph-view-nav { display: none; }*/
+.nav-header .graph-view-nav { display: none; }
 
 /** Header */
 /* Hide right side of header buttons  (only useful setting is light/dark theme and can still be done using tt, graph is somewhat broken, home is covered by "All Pages")  */
